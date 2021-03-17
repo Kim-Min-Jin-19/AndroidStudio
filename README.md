@@ -5,6 +5,6 @@
 # Week 2 Day2 #1 변경된 문자열 깃허브에서 확인
 <img src = "https://github.com/Kim-Min-Jin-19/Images/blob/main/2%EC%A3%BC%EC%B0%A8_2_%EC%8B%A4%ED%96%89%ED%99%94%EB%A9%B4.jpg?raw=true">
 # Week 3 Day1 #1 LifeCycle 확인 삽입 코드 화면
-
+![image](https://user-images.githubusercontent.com/79950103/111423877-44f6b480-8734-11eb-9ea2-8ad4973b3a6a.png)
 # Week 3 Day1 #2 LifeCycle 확인 동영상 제작
 https://youtu.be/ow29FvAbxuw
